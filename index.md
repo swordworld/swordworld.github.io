@@ -9,6 +9,10 @@ Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.ht
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
+
+## [game programming patterns](assets/game_programming_patterns_cn/index.md)
+
+
 ## Update Author Attributes
 
 In `_config.yml` remember to specify your own data:
